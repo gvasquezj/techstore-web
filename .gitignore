@@ -1,0 +1,18 @@
+# Archivos y carpetas generados por el entorno local
+nbproject/
+.vscode/
+.idea/
+
+# Archivos de configuracion del sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Archivos de registro y temporales
+*.log
+*.tmp
+*.bak
+
+# Respaldos y copias locales
+copias/
+temp/
